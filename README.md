@@ -1,2 +1,2 @@
 Software Developer
-[See](https://diegocontinta.com)
+[See More →](https://diegocontinta.com)
