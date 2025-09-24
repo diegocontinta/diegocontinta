@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @diegocontinta
-- 👀 I’m interested in backend and fronend develop
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Diego! I'm a software engineer with a strong interest in backend development, data processing, and AI integrations. I enjoy creating efficient, maintainable, and scalable solutions. When I'm not coding, I love learning about emerging tech, contributing to open-source projects, and improving my skills in cloud computing and machine learning.
+markdown
 
-<!---
-diegocontinta/diegocontinta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Languages:** Python, TypeScript, SQL, R
+- **Frameworks & Tools:** FastAPI, Flask, React, SQLAlchemy, Docker
+- **Databases:** PostgreSQL, MySQL
+- **Others:** Git, CI/CD, Cloud (Azure, AWS)
+
+- **Languages:** Python, TypeScript, SQL, R
+- **Frameworks & Tools:** FastAPI, Flask, React, SQLAlchemy, Docker
+- **Databases:** PostgreSQL, MySQL
+- **Others:** Git, CI/CD, Cloud (Azure, AWS)
